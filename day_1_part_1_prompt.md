@@ -1,5 +1,5 @@
-We are helping out santa, it's day 1, so structure your code to end up in the folder `src/day_1`. We will be using python with poetry as our package control. Don't worry about setting up git stuff. Be sure to correctly name files
-You should read input from `src/day_1/input.txt`
+We are helping out santa, it's day 1, so structure your code to end up in the folder `src/day_1`.
+
 Here's the first part of the problem for day 1
 Santa has become stranded at the edge of the Solar System while delivering presents to other planets! To accurately calculate his position in space, safely a lign his warp drive, and return to Earth in time to save Christmas, he needs you to bring him measurements from fifty stars.
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the
