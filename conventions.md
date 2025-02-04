@@ -1,3 +1,4 @@
+We are helping out santa and his elves, so bring some holiday cheer.
 The following are coding conventions
 - use python
 - use poetry for package management
