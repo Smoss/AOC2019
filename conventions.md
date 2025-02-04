@@ -1,0 +1,4 @@
+- use python
+- use poetry for package management
+- use python types through mypy
+- read input from `day_<x>/data/input.txt` where `<x>` is the day number
